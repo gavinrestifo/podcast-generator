@@ -1,4 +1,4 @@
-name: "Podcast Generator"
+name: "LinkedIn Learning Podcast Generator - Test"
 author: "Gavin Restifo"
 description: "Generates a feed for a podcast from a YAML file"
 runs:
